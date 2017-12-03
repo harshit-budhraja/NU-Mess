@@ -48,14 +48,26 @@ public class PlaceholderFragment extends Fragment {
         ArrayList<String> items = b.getStringArrayList("items");
 
         String result = "";
-        String timing = items.get(0);
+        String timing="Usual Meal Timing";
+        try{
+            timing = items.get(0);
+        }
+        catch(IndexOutOfBoundsException iobe)
+        {
+            iobe.printStackTrace();
+        }
 
         if (items != null) {
             for(int i=1; i<items.size();i++)   result += (items.get(i) + "\n");
         }
 
-        tvTimings.setText(timing);
-        tvResult.setText(result);
+        try {
+            tvTimings.setText(timing);
+            tvResult.setText(result);
+        }
+        catch(Exception e) {
+            e.printStackTrace();
+        }
 
         return rootView;
     }
