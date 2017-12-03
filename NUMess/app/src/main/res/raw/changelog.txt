@@ -1,0 +1,62 @@
+<html>
+  <head>
+    <style type='text/css'>
+      a            { color:#a0a0e0 }
+      div.title    {
+        color:#02323b;
+        font-size:1.2em;
+        font-weight:bold;
+        margin-top:1em;
+        margin-bottom:0.5em;
+        text-align:center }
+      div.subtitle {
+        color:#19334c;
+        font-size:0.8em;
+        margin-bottom:1em;
+        text-align:center }
+      div.freetext { color:#19334c }
+      div.list     { color:#336699 }
+    </style>
+  </head>
+  <body>
+    $ 1.3.1
+                % Version 1.3.1
+                _ 2017-11-19
+                * [NEW] Now shows the timing of every meal
+    $ 1.3
+            % Version 1.3
+            _ 2017-10-30
+            * [NEW] Night mode - Protect your eyes in the dark environment
+            * [NEW] Notification preferences available
+            * [NEW] Now you can download the complete menu in MS Excel format
+            * Tomorrow's Menu shows the complete day's menu now
+            * Improved offline support
+    $ 1.2.1
+        % Version 1.2.1
+        _ 2017-10-07
+        * Design improvements
+        * Minor bug fixes
+    $ 1.2
+          % Version 1.2
+          _ 2017-10-06
+          * UI/UX improvements
+          * Improved feedback mechanism - opens the default email client automatically
+          * [NEW] Added a share app functionality
+          * [NEW] Ability to view the following day's breakfast menu
+          * Now the app opens directly to the menu according to the time of the day
+          * Bug Fixes and speed enhancements
+    $ 1.1
+      % Version 1.1
+      _ 2017-10-05
+      * <b>OFFLINE SUPPORT</b> - Now the app will work even if the device is offline
+      * Implemented changelog dialogs
+      * Some design changes
+      * Bug fixes for crashes on some devices
+    $ 1.0
+      % Version 1.0
+      _ 2017-09-30
+      ! Finally! <b>NU Mess</b> is released in its first version v1.0.
+      * Initial Release
+    $ END_OF_CHANGE_LOG
+  </body>
+</html>

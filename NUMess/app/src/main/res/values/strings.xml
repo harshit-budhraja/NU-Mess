@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mess Menu</string>
+    <string name="action_share">Share App</string>
+    <string name="action_tomorrow">Tomorrow\'s Menu</string>
+    <string name="text_disclaimer">This app is developed independently and is in no way affiliated with NIIT University, BCHFood or any other partnering organizations / clubs. Further, the menu is updated as provided by the Mess Committee.</string>
+    <string name="client_id">587913647611-rvjq67pmbri7sj7rvfb9d9rrmcsjh4ck.apps.googleusercontent.com</string>
+    <string name="changelog_full_title">Change Log</string>
+    <string name="changelog_title">What\'s New</string>
+    <string name="changelog_ok_button">OK</string>
+    <string name="changelog_show_full">more...</string>
+    <string name="background_color">white</string>
+    <string name="title_activity_tomorrow">Tomorrow\'s Menu</string>
+    <string name="nomatch">No Contests found!!</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>

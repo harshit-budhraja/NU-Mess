@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:summary="Display Settings"
+        android:title="Display Settings" >
+        <SwitchPreference
+            android:key="nightmode"
+            android:title="Night Mode"
+            android:summary="This will control the night mode settings for menu screens only. All the other screens in the app will remain unaffected."
+            android:defaultValue="false" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:summary="Notifications"
+        android:title="Notifications">
+        <CheckBoxPreference
+            android:title="Push Notifications"
+            android:summary="Receive important updates regarding menu updates, timing changes etc."
+            android:key="notifications"
+            android:defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:summary="About NU Mess"
+        android:title="About NU Mess">
+        <Preference
+            android:title="App info"
+            android:key="appinfo" />
+        <Preference
+            android:title="Contact the developer"
+            android:key="feedback" />
+        <Preference
+            android:title="Rate this App"
+            android:summary="Please support this app by rating it 5 stars on Google Play Store."
+            android:key="rate" />
+        <Preference
+            android:title="Download menu"
+            android:summary="Download the complete menu in MS Excel format."
+            android:key="excel" />
+    </PreferenceCategory>
+</PreferenceScreen>

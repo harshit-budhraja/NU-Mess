@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#37474F</color>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="breakfast">#039BE5</color>
+    <color name="lunch">#FF8F00</color>
+    <color name="hitea">#AD1457</color>
+    <color name="dinner">#283593</color>
+
+    <color name="breakfastdark">#0288D1</color>
+    <color name="lunchdark">#FF7F00</color>
+    <color name="hiteadark">#880E4F</color>
+    <color name="dinnerdark">#1A237E</color>
+</resources>
