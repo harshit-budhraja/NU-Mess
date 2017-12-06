@@ -39,7 +39,7 @@ public class SplashActivity extends Activity {
     public JSONObject menuobj;
     public Boolean fetched=false;
     // Splash screen timer
-    private static int SPLASH_TIME_OUT = 5000;
+    private static int SPLASH_TIME_OUT = 4000;
     private PendingIntent pendingIntent;
     OnlineActivity o;
 
@@ -175,7 +175,7 @@ public class SplashActivity extends Activity {
                     i.putExtra("json", response.toString());
                     startActivity(i);
                 } else {
-                    Toast.makeText(getApplicationContext(), "Could not retrieve a menu", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(), "Could not refresh the menu from the server and hence any updates in the menu will not be shown", Toast.LENGTH_SHORT).show();
                     startActivity(i);
                 }
             }
