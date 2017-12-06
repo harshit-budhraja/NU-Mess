@@ -2,7 +2,7 @@
 [![License](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![GitHub Stars](https://img.shields.io/github/stars/harshitbudhraja/NU-Mess.svg)](https://github.com/harshitbudhraja/NU-Mess/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/harshitbudhraja/NU-Mess.svg)](https://github.com/harshitbudhraja/NU-Mess/issues)
-[![Current Version](https://img.shields.io/badge/version-1.3.2-green.svg)](https://github.com/harshitbudhraja/NU-Mess)
+[![Current Version](https://img.shields.io/badge/version-1.3.3-green.svg)](https://github.com/harshitbudhraja/NU-Mess)
 
 * [NU Mess](#nu-mess)
 * [Build from source](#build-from-source)
@@ -35,7 +35,8 @@ v1.0 - [Download](https://github.com/harshitbudhraja/NU-Mess/blob/master/NU%20Me
 <br>v1.2.1 - [Download](https://github.com/harshitbudhraja/NU-Mess/blob/master/NU%20Mess%20Essentials/NUMessAPK/org.arachnis.numess.v1.2.1.apk)
 <br>v1.3.0 - [Download](https://github.com/harshitbudhraja/NU-Mess/blob/master/NU%20Mess%20Essentials/NUMessAPK/org.arachnis.numess.v1.3.0.apk)
 <br>v1.3.1 - [Download](https://github.com/harshitbudhraja/NU-Mess/blob/master/NU%20Mess%20Essentials/NUMessAPK/org.arachnis.numess.v1.3.1.apk)
-<br>[LATEST] v1.3.2 - [Download](https://github.com/harshitbudhraja/NU-Mess/blob/master/NU%20Mess%20Essentials/NUMessAPK/org.arachnis.numess.v1.3.2.apk)
+<br>v1.3.2 - [Download](https://github.com/harshitbudhraja/NU-Mess/blob/master/NU%20Mess%20Essentials/NUMessAPK/org.arachnis.numess.v1.3.2.apk)
+<br>[LATEST] v1.3.3 - On Google Play
 
 ## Documentation
 
